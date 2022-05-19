@@ -1,8 +1,8 @@
 # richdatashets
 
-+ [richdatashets](https://github.com/PuppyPi/richdatashets)
++ **[richdatashets](https://github.com/PuppyPi/richdatashets)**
    + [richdatashets-java](https://github.com/PuppyPi/richdatashets-java)
-+ Implementations
++ **Implementations**
    + richdatashets-live
       + richdatashets-live-ethercalc
          + [richdatashets-live-ethercalc-java](https://github.com/PuppyPi/richdatashets-live-ethercalc-java)
@@ -18,10 +18,11 @@
          + [richdatashets-localfile-json-java](https://github.com/PuppyPi/richdatashets-localfile-json-java)
    + richdatashets-gds
       + [richdatashets-gds-java](https://github.com/PuppyPi/richdatashets-gds-java)
-+ Tests
++ **Tests**
    + [richdatashets-tests-java](https://github.com/PuppyPi/richdatashets-tests-java)
 
-
++ **Some Client Code** (inexhaustive)
+   + [datashets-on-richdatashets-java](https://github.com/PuppyPi/datashets-on-richdatashets-java)
 
 
 
