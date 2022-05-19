@@ -3,19 +3,14 @@
 + **[richdatashets](https://github.com/PuppyPi/richdatashets)**
    + [richdatashets-java](https://github.com/PuppyPi/richdatashets-java)
 + **Implementations**
-   + richdatashets-live
-      + richdatashets-live-ethercalc
-         + [richdatashets-live-ethercalc-java](https://github.com/PuppyPi/richdatashets-live-ethercalc-java)
-      + richdatashets-live-google-sheets
-         + [richdatashets-live-google-sheets-java](https://github.com/PuppyPi/richdatashets-live-google-sheets-java)
+   + richdatashets-on-richsheets
+      + [richdatashets-on-richsheets-java](https://github.com/PuppyPi/richdatashets-on-richsheets-java)
    + richdatashets-localfile
       + [richdatashets-localfile-java](https://github.com/PuppyPi/richdatashets-localfile-java)
-      + richdatashets-localfile-gnumeric
-         + [richdatashets-localfile-gnumeric-java](https://github.com/PuppyPi/richdatashets-localfile-gnumeric-java)
-      + richdatashets-localfile-ods
-         + [richdatashets-localfile-ods-java](https://github.com/PuppyPi/richdatashets-localfile-ods-java)
       + richdatashets-localfile-json
          + [richdatashets-localfile-json-java](https://github.com/PuppyPi/richdatashets-localfile-json-java)
+      + richdatashets-localfile-cbor
+         + [richdatashets-localfile-cbor-java](https://github.com/PuppyPi/richdatashets-localfile-cbor-java)
    + richdatashets-gds
       + [richdatashets-gds-java](https://github.com/PuppyPi/richdatashets-gds-java)
 + **Tests**
