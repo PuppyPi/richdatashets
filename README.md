@@ -1,5 +1,7 @@
-# datashets
+# richdatashets
 A system for making lots of code interact with lots of Google Sheets robust and simple!
+
+TODO update and fix!! XD''
 
 The reference implementation in Java is at:<br>
 https://github.com/PuppyPi/datashets-java
