@@ -20,7 +20,6 @@
       + [richdatashets-gds-java](https://github.com/PuppyPi/richdatashets-gds-java)
 + **Tests**
    + [richdatashets-tests-java](https://github.com/PuppyPi/richdatashets-tests-java)
-
 + **Some Client Code** (inexhaustive)
    + [datashets-on-richdatashets-java](https://github.com/PuppyPi/datashets-on-richdatashets-java)
 
