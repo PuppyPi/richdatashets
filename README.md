@@ -22,6 +22,9 @@
    + [richdatashets-tests-java](https://github.com/PuppyPi/richdatashets-tests-java)
 + **Some Client Code** (inexhaustive)
    + [datashets-on-richdatashets-java](https://github.com/PuppyPi/datashets-on-richdatashets-java)
+   + richdatashets-maintenance-tool
+      + [richdatashets-maintenance-tool-java](https://github.com/PuppyPi/richdatashets-maintenance-tool-java)
+
 
 
 
